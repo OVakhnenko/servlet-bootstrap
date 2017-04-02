@@ -9,6 +9,13 @@
     <link href="css/bootstrap.css" rel="stylesheet" media="screen">
 </head>
 <body>
+<button type="button" class="btn btn-default">Кнопка</button>
+<button type="button" class="btn btn-primary">Основная</button>
+<button type="button" class="btn btn-success">Успех</button>
+<button type="button" class="btn btn-info">Информация</button>
+<button type="button" class="btn btn-warning">Внимание</button>
+<button type="button" class="btn btn-danger">Ошибка</button>
+<button type="button" class="btn btn-link">Ссылка</button>
 
 <a href="#" class="btn btn-large btn btn-success">Button</a>
 
