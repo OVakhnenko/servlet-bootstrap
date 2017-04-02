@@ -7,7 +7,6 @@
     <title>Bootstrap 101 Шаблон</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet" media="screen">
-    <link rel="stylesheet" href="../css/bootstrap.min.css">
 </head>
 <body>
 
